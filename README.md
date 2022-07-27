@@ -1,8 +1,8 @@
-<h1 align="center">Hello 👋🏻, I'm Gabriel Freitas!</h1>
+<h1 align="center">Olá 👋🏻, Me chamo Gabriel Freitas!</h1>
 
 ###
 
-<h2 align="center">I'm a Frontend Developer!</h2>
+<h2 align="center">Eu sou um Dev Frontend</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">That are the techs that I have worked:</p>
+<p align="left"> 🛠 Essas aqui são as tecnologias que eu uso diariamente:</p>
 
 ###
 
@@ -45,7 +45,7 @@
 
 ###
 
-<p align="left">You can find me on that social media:  🖥</p>
+<p align="left">🖥 Você pode me achar nas seguintes redes:  </p>
 
 ###
 
